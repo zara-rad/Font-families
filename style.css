@@ -1,0 +1,24 @@
+@font-face {
+  font-family: zahra;
+  src: url(Domine/Domine/Domine-VariableFont_wght.ttf);
+}
+h1,
+h2,
+h3 {
+  font-family: zahra;
+}
+
+@font-face {
+  font-family: zahra1;
+  src: url(sansrobot/Roboto/Roboto-Regular.ttf);
+}
+main {
+  font-family: zahra1;
+}
+@font-face {
+  font-family: zahra2;
+  src: url(Courier_Prime\PT_Serif/Courier_Prime);
+}
+.code {
+  font-family: zahra2;
+}
